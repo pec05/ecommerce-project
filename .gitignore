@@ -1,0 +1,14 @@
+/02-backend/.idea/.gitignore
+/02-backend/.idea/02-backend.iml
+/02-backend/.idea/encodings.xml
+/02-backend/.idea/jarRepositories.xml
+/02-backend/.idea/libraries/Java_EE_6_Java_EE_6.xml
+/02-backend/lib/javax.annotation.jar
+/02-backend/lib/javax.ejb.jar
+/02-backend/lib/javax.jms.jar
+/02-backend/lib/javax.persistence.jar
+/02-backend/lib/javax.resource.jar
+/02-backend/lib/javax.servlet.jar
+/02-backend/lib/javax.servlet.jsp.jar
+/02-backend/lib/javax.servlet.jsp.jstl.jar
+/02-backend/lib/javax.transaction.jar
